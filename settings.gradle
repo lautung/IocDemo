@@ -1,0 +1,5 @@
+rootProject.name = "IocDemo"
+include ':runtimeInject'
+include ':annotation_compiler'
+include ':annotations'
+include ':compileTimeInject'
